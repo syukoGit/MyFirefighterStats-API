@@ -1,0 +1,18 @@
+[*.cs]
+# IDE0002: Simplifier l'accès au membre
+dotnet_diagnostic.ide0002.severity = none
+
+# IDE0003: Simplifier l'accès au membre
+dotnet_diagnostic.ide0003.severity = none
+
+# IDE0021: Utiliser un corps de bloc pour les constructeurs
+csharp_style_expression_bodied_constructors = true
+
+# IDE0022: Utiliser un corps de bloc pour les méthodes
+csharp_style_expression_bodied_methods = true
+
+# IDE0007: Utiliser un type implicite
+dotnet_diagnostic.IDE0007.severity = none
+
+# IDE0008: Utiliser un type explicite
+dotnet_diagnostic.IDE0008.severity = none
